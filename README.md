@@ -1,4 +1,4 @@
-# Autonomous Journalism Drone with Hand Gesture Control and Person Tracking
+# Autonomous Drone with Hand Gesture Control and Person Tracking
 
 **An AI-powered journalism drone enabling hands-free operation without
 wearable sensors or handheld controllers.** Using only an onboard camera,
